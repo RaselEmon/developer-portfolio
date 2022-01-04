@@ -1,6 +1,8 @@
 body{
-    margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Mochiy Pop P One',
+    sans-serif;
+    font-family: 'Poppins',
+    sans-serif;
 }
 section{
     height: 500px;
@@ -69,4 +71,7 @@ h2{
 }
 footer p{
     text-align: center;
+}
+#name{
+    color: greenyellow;
 }
